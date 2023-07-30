@@ -1,0 +1,4 @@
+local a ="123"
+local b = "测试"
+local c = 123
+print(a)
